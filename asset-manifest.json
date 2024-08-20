@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FaqsApp-ReactJS/static/css/main.475849b0.chunk.css",
+    "main.js": "/FaqsApp-ReactJS/static/js/main.995d918f.chunk.js",
+    "main.js.map": "/FaqsApp-ReactJS/static/js/main.995d918f.chunk.js.map",
+    "runtime-main.js": "/FaqsApp-ReactJS/static/js/runtime-main.ccce822f.js",
+    "runtime-main.js.map": "/FaqsApp-ReactJS/static/js/runtime-main.ccce822f.js.map",
+    "static/js/2.5790ff4c.chunk.js": "/FaqsApp-ReactJS/static/js/2.5790ff4c.chunk.js",
+    "static/js/2.5790ff4c.chunk.js.map": "/FaqsApp-ReactJS/static/js/2.5790ff4c.chunk.js.map",
+    "index.html": "/FaqsApp-ReactJS/index.html",
+    "static/css/main.475849b0.chunk.css.map": "/FaqsApp-ReactJS/static/css/main.475849b0.chunk.css.map",
+    "static/js/2.5790ff4c.chunk.js.LICENSE.txt": "/FaqsApp-ReactJS/static/js/2.5790ff4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccce822f.js",
+    "static/js/2.5790ff4c.chunk.js",
+    "static/css/main.475849b0.chunk.css",
+    "static/js/main.995d918f.chunk.js"
+  ]
+}
