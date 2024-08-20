@@ -1,0 +1,30 @@
+/* Write your code here. */
+.bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+
+  padding: 15px;
+  font-family: 'roboto';
+}
+
+.card {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  color: #cb8805;
+  font-size: 40px;
+}
+
+.ul {
+  margin: 0;
+  padding: 0;
+}

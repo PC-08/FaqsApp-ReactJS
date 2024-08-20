@@ -1,0 +1,31 @@
+/* Write your code here. */
+.li {
+  list-style-type: none;
+  border: 2px solid #d7dae6;
+  padding: 10px;
+  margin: 10px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.li-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.qh {
+  color: hsl(209, 14%, 37%);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.ah {
+  color: #9aa5b1;
+  font-size: 16px;
+}
+
+.line {
+  color: #e4e7eb;
+  border-color: #e4e7eb;
+}
